@@ -1,0 +1,12 @@
+The way how data travels on the internet.
+
+- As we know from the video "The Internet: Wires, Cables &Wifi". The data can travels on the internet like the binary code.
+
+The relationship between IP address and the DNS.
+- I think that the IP address means the identification for each website or devices. And the DNS help to make the connection between each IP address.
+
+What is a cookie?
+- Cookie data is the only way that website to remember who you are. The cookie can help you to save your preferences after your close the website. That will helpful in your next time when you try to surf in the same website.
+
+Three basic parts of URL:
+- The three basic parts of a URL are protocol, domain name and the path
