@@ -6,4 +6,4 @@
 
 3:For this project, I spent lots of time to turn back review the past topics. There are lot of points need to reuse the past topics, that really let me feel little bit confused. Thus, I have to turn back to past topics one by one and refresh my memories.
 
-4:![Image of My Atom Editor](./images/screenshot project2.png)
+4:![Image of My Atom Editor](./images/screenshotproject2.png)
