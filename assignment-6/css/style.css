@@ -4,7 +4,7 @@ body{
   padding: 10px;
 }
 
-.box-1{
+.box1{
   border-style: double;
   border-width: 6px;
   border-color: red;
@@ -13,7 +13,7 @@ body{
   width: 300px;
 }
 
-.box-2{
+.box2{
   border-style: dotted;
   border-width: 6px
   border-color: green;
@@ -23,7 +23,7 @@ body{
 }
 
 /*inner box*/
-.box-2.inner{
+.box2.inner{
   border-style: outset !important;
   border-width: 6px;
   border-color: blue;
