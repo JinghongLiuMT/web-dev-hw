@@ -1,0 +1,43 @@
+body{
+  font-size: 13pt;
+  color: white;
+}
+.box-1{
+  border-style: double;
+  border-width: 6px;
+  border-color: red;
+  background-color: darkblue;
+  height: 300px;
+  width: 300px;
+}
+
+.box-2{
+  border-style: dotted;
+  border-width: 6px
+  border-color: green;
+  background-color: yellow;
+  height: 300px;
+  width: 300px;
+}
+/*inner box*/
+.box-2.inner{
+  border-style: outset !important;
+  border-width: 6px;
+  border-color: blue;
+  opacity: .7;
+  padding: 20px;
+  background-color: rgb(255, 255, 0);
+  width: 500px;
+  height: 300px;
+  position: absolute;
+}
+
+.line-vertical{
+  width: 6px;
+  height: 100%
+  background-color: blue;
+  positio: absolute;
+  top: 0;
+  left: 20px;
+  z-index: -8;
+}
