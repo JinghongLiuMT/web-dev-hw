@@ -34,13 +34,3 @@ body{
   height: 300px;
   position: absolute;
 }
-
-.line{
-  width: 6px;
-  height: 100%
-  background-color: blue;
-  positio: absolute;
-  top: 0;
-  left: 20px;
-  z-index: -8;
-}
