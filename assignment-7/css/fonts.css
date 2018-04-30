@@ -6,3 +6,31 @@
 }
 
 @import url('https://fonts.googleapis.com/css?family=Do+Hyeon');
+
+h2 {
+  font-family: 'Titan One', cursive, sans-serif;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Titan One', cursive;
+  text-align: center;
+  font-weight: normal;
+}
+
+h4 {
+  font-family: 'Titan One', cursive;
+  text-align: center;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: 2em;
+  text-align: center;
+}
+
+.change-01{
+  text-transform: capitalize;
+  letter-spacing: normal;
+}
