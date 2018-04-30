@@ -1,0 +1,47 @@
+body {
+  background-color: grey;
+}
+h2 {
+  color: lightblue;
+  text-align: center;
+  font-family: 'Titan One', cursive;
+  font-size: 200%;
+}
+
+h3 {
+  color: lightblue;
+  text-align: center;
+  font-family: 'Titan One', cursive;
+  font-size: 150%;
+}
+
+h4 {
+  color: lightblue;
+  text-align: center;
+  font-family: 'Titan One', cursive;
+  font-size: 100%;
+}
+
+P {
+  color: darkblue;
+  text-align: center;
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: 80%;
+}
+
+a:link {
+  color: #AB503C;
+  text-decoration: none;
+}
+
+.button:hover {
+  color: green;
+  font-style: italic;
+}
+
+.button:active {
+  color: #fff;
+  background-color: rgb(17, 127, 126);
+  border-color: black;
+  border-width: 10px 6px 6px 10px;
+}
