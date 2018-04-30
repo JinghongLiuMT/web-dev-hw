@@ -6,4 +6,4 @@
 
 3:For the work cycle for this assignment, I have to say I was confused about how to use the fonts style to make my website looks more professional before I learnt this lessons. I also got into lots of trouble when I doing this assignment, but with the help of the class materials I can found out them and also solve them.
 
-4:![Image of My Atom Editor](./screenshot.png)
+4:![Image of My Atom Editor](./fonts/screenshot.png)
