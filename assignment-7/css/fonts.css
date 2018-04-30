@@ -1,11 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Do+Hyeon');
+
 @font-face {
   font-family: 'Titan One', cursive;
   src: url('../fonts/TitanOne-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: italic;
 }
-
-@import url('https://fonts.googleapis.com/css?family=Do+Hyeon');
 
 h2 {
   font-family: 'Titan One', cursive, sans-serif;
