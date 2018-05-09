@@ -1,8 +1,8 @@
-body{
+body {
   background-color: #fdfdf1;
 }
 
-.container{
+.container {
   position: relative;
   width: 400px;
   height: 400px;
@@ -10,7 +10,7 @@ body{
   margin: 20px;
 }
 
-.scene{
+.scene {
   position: absolute;
   left: 25px;
   top: 900px;
@@ -19,7 +19,7 @@ body{
   z-index: 3;
 }
 
-.woman{
+.woman {
   position: relative;
   left: 50px;
   top: 80px;
@@ -28,7 +28,7 @@ body{
   z-index: 2;
 }
 
-.text3{
+.text3 {
   position: absolute;
   left: 30px;
   top: 1000px;
@@ -39,7 +39,7 @@ body{
   font-family: sans-serif;
 }
 
-.filterqueenimages{
+.filterqueenimages {
   position: absolute;
   left: 30px;
   top: 1000px;
@@ -47,7 +47,7 @@ body{
   height: 300;
 }
 
-.text4{
+.text4 {
   position: absolute;
   left: 20px;
   top: 1500px;
@@ -58,7 +58,7 @@ body{
   font-family: serif;
 }
 
-.head1{
+.head1 {
   position: absolute;
   left: 300px;
   top: 40px;
@@ -67,7 +67,7 @@ body{
   z-index: 3;
 }
 
-.head2{
+.head2 {
   position: absolute;
   left: 500px;
   top: 90px;
@@ -76,7 +76,7 @@ body{
   z-index: 3;
 }
 
-.head3{
+.head3 {
   position: absolute;
   left: 400px;
   top: 300px;
@@ -85,7 +85,7 @@ body{
   z-index: 3;
 }
 
-.head4{
+.head4 {
   position: absolute;
   left: 500px;
   top: 400px;
@@ -94,7 +94,7 @@ body{
   z-index: 2;
 }
 
-.filterqueen{
+.filterqueen {
   position: absolute;
   left: 350px;
   top: 250px;
@@ -104,7 +104,7 @@ body{
   padding: 50px;
 }
 
-.text1{
+.text1 {
   position: absolute;
   left: 350px;
   top: 300px;
@@ -115,7 +115,7 @@ body{
   font-family: sans-serif;
 }
 
-.iconinside{
+.iconinside {
   position: absolute;
   left: 330px;
   top: 400px;
@@ -124,7 +124,7 @@ body{
   z-index: 2;
 }
 
-.iconoutside{
+.iconoutside {
   position: absolute;
   left: 350px;
   top: 270px;
@@ -133,7 +133,7 @@ body{
   z-index: 2;
 }
 
-.iconwastebasket{
+.iconwastebasket {
   position: absolute;
   left: 370px;
   top: 250px;
@@ -142,7 +142,7 @@ body{
   z-index: 2;
 }
 
-.Honest{
+.Honest {
   position: absolute;
   left: 518px;
   top: 447px;
@@ -151,7 +151,7 @@ body{
   z-index: 2;
 }
 
-.GloryBe{
+.GloryBe {
   position: absolute;
   left: 518px;
   top: 600px;
@@ -160,7 +160,7 @@ body{
   z-index: 2;
 }
 
-.Whee-e-e{
+.Whee-e-e {
   position: absolute;
   left: 547px;
   top: 487px;
@@ -169,7 +169,7 @@ body{
   z-index: 2;
 }
 
-.text2{
+.text2 {
   position: absolute;
   left: 415px;
   top: 890px;
@@ -178,7 +178,7 @@ body{
   padding: 4px;
 }
 
-.logo{
+.logo {
   position: absolute;
   left: 300px;
   top: 1000px;
@@ -187,7 +187,7 @@ body{
   z-index: 2;
 }
 
-.guarantee{
+.guarantee {
   position: absolute;
   left: 600px;
   top: 1400px;
@@ -196,7 +196,7 @@ body{
   z-index: 3;
 }
 
-.coupon{
+.coupon {
   position: absolute;
   left: 400px;
   top: 1400px;
