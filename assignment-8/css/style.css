@@ -1,0 +1,49 @@
+body{
+  background-color: #fdfdf1;
+}
+
+.container{
+  position: relative;
+  width: 400px;
+  height: 400px;
+  left: 200px;
+  margin: 20px;
+}
+
+.scene{
+  position: absolute;
+  left: 25px;
+  top: 900px;
+  width: 400;
+  height: 250;
+  z-index: 3;
+}
+
+.woman{
+  position: relative;
+  left: 50px;
+  top: 80px;
+  width: 400px;
+  height: 1000px;
+  z-index: 2;
+}
+
+.text3{
+  position: absolute;
+  left: 30px;
+  top: 1000px;
+  width: 500;
+  height: 200;
+}
+
+.filterqueenimages{
+  position: absolute;
+  left: 30px;
+  top: 1000px;
+  width: 400;
+  height: 300;
+}
+
+.text4{
+  
+}
