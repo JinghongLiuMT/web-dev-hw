@@ -34,6 +34,9 @@ body{
   top: 1000px;
   width: 500;
   height: 200;
+  text-align: justify;
+  letter-spacing: normal;
+  font-family: sans-serif;
 }
 
 .filterqueenimages{
@@ -45,5 +48,119 @@ body{
 }
 
 .text4{
-  
+  position: absolute;
+  left: 20px;
+  top: 1500px;
+  width: 500;
+  height: 300;
+  text-align: justify;
+  letter-spacing: normal;
+  font-family: serif;
+}
+
+.head1{
+  position: absolute;
+  left: 300px;
+  top: 40px;
+  width: 550;
+  height: 450;
+  z-index: 3;
+}
+
+.head2{
+  position: absolute;
+  left: 500px;
+  top: 90px;
+  width: 500;
+  height: 400;
+  z-index: 3;
+}
+
+.head3{
+  position: absolute;
+  left: 400px;
+  top: 300px;
+  width: 550;
+  height: 400;
+  z-index: 3;
+}
+
+.head4{
+  position: absolute;
+  left: 500px;
+  top: 400px;
+  width: 500;
+  height: 450;
+  z-index: 2;
+}
+
+.filterqueen{
+  position: absolute;
+  left: 350px;
+  top: 250px;
+  width: 400;
+  height: 300;
+  z-index: 1;
+  padding: 50px;
+}
+
+.text1{
+  position: absolute;
+  left: 350px;
+  top: 300px;
+  width: 500;
+  height: 200;
+  text-align: justify;
+  letter-spacing: normal;
+  font-family: sans-serif;
+}
+
+.iconinside{
+  position: absolute;
+  left: 330px;
+  top: 400px;
+  width: 500;
+  height: 300;
+  z-index: 2;
+}
+
+.iconoutside{
+  position: absolute;
+  left: 350px;
+  top: 270px;
+  width: 500;
+  height: 300;
+  z-index: 2;
+}
+
+.iconwastebasket{
+  position: absolute;
+  left: 370px;
+  top: 250px;
+  width: 500;
+  height: 300;
+  z-index: 2;
+}
+
+.Honest{
+  position: absolute;
+  left: 518px;
+  top: 447px;
+  width: 500;
+  height: 300;
+  z-index: 2;
+}
+
+.GloryBe{
+  position: absolute;
+  left: 518px;
+  top: 600px;
+  width: 500;
+  height: 300;
+  z-index: 2;
+}
+
+.Whee-e-e{
+  position: absolute;
+  left: 
 }
