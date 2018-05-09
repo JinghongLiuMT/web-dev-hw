@@ -13,10 +13,8 @@ body {
 
 .woman {
   position: relative;
-  left: 50px;
-  top: 80px;
-  width: 400px;
-  height: 1000px;
+  left: 110px;
+  top: 3px;
   z-index: 2;
 }
 
@@ -62,30 +60,35 @@ body {
 }
 
 .head2 {
+  font-family: serif;
+  font-size: 25px;
+  font-style: italic;
   position: absolute;
-  left: 500px;
-  top: 90px;
-  width: 500;
-  height: 400;
-  z-index: 3;
+  left: 590px;
+  top: 26px;
+  width: 268px;
+  rotation: -12;
 }
 
 .head4 {
+  font-family: serif;
+  font-size: 20px;
+  font-style: italic;
   position: absolute;
-  left: 500px;
-  top: 400px;
-  width: 500;
-  height: 450;
-  z-index: 2;
+  left: 400px;
+  top: 96px;
+  width: 680px;
 }
 
 .filterqueen {
+  font-family: serif;
+  font-size: 20px;
+  background-color: black;
   position: absolute;
-  left: 350px;
-  top: 250px;
-  width: 400;
-  height: 300;
-  z-index: 1;
+  left: 442px;
+  top: 185px;
+  width: 338px;
+  height: 76px;
   padding: 50px;
 }
 
