@@ -51,12 +51,14 @@ body {
 }
 
 .head1 {
+  font-family: serif;
+  font-size: 25px;
+  font-style: italic;
   position: absolute;
-  left: 300px;
-  top: 40px;
-  width: 550;
-  height: 450;
-  z-index: 3;
+  width: 246px;
+  left: 396px;
+  top: 28px;
+  rotation: 12;
 }
 
 .head2 {
@@ -64,15 +66,6 @@ body {
   left: 500px;
   top: 90px;
   width: 500;
-  height: 400;
-  z-index: 3;
-}
-
-.head3 {
-  position: absolute;
-  left: 400px;
-  top: 300px;
-  width: 550;
   height: 400;
   z-index: 3;
 }
