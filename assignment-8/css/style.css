@@ -162,5 +162,47 @@ body{
 
 .Whee-e-e{
   position: absolute;
-  left: 
+  left: 547px;
+  top: 487px;
+  width: 500;
+  height: 300;
+  z-index: 2;
+}
+
+.text2{
+  position: absolute;
+  left: 415px;
+  top: 890px;
+  width: 350;
+  height: 340;
+  padding: 4px;
+}
+
+.logo{
+  position: absolute;
+  left: 300px;
+  top: 1000px;
+  width: 500;
+  height: 300;
+  z-index: 2;
+}
+
+.guarantee{
+  position: absolute;
+  left: 600px;
+  top: 1400px;
+  width: 500;
+  height: 300;
+  z-index: 3;
+}
+
+.coupon{
+  position: absolute;
+  left: 400px;
+  top: 1400px;
+  width: 300;
+  height: 200;
+  z-index: 1;
+  padding-left: 10px;
+  border: 6px dashed black;
 }
