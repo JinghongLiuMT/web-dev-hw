@@ -9,9 +9,9 @@ body {
 }
 
 .woman {
-  position: relative;
-  left: 110px;
-  top: 3px;
+  position: absolute;
+  left: 70px;
+  top: 10px;
   z-index: 2;
 }
 
@@ -47,71 +47,68 @@ body {
 
 .head1 {
   font-family: serif;
-  font-size: 25px;
+  font-size: 32px;
   font-style: italic;
   position: absolute;
-  width: 246px;
-  left: 396px;
+  width: 250px;
+  left: 400px;
   top: 28px;
-  rotation: 12;
+  rotation: 10;
 }
 
 .head2 {
   font-family: serif;
-  font-size: 25px;
+  font-size: 32px;
   font-style: italic;
   position: absolute;
-  left: 590px;
-  top: 26px;
-  width: 268px;
-  rotation: -12;
+  left: 600px;
+  top: 30px;
+  width: 250px;
+  rotation: -10;
 }
 
 .head4 {
   font-family: serif;
-  font-size: 20px;
-  font-style: italic;
+  font-size: 21px;
   position: absolute;
-  left: 400px;
-  top: 96px;
-  width: 680px;
+  left: 300px;
+  top: 100px;
+  width: 675px;
 }
 
 .filterqueen {
   font-family: serif;
-  font-size: 20px;
+  font-size: 28px;
   background-color: black;
   position: absolute;
-  left: 442px;
-  top: 185px;
-  width: 338px;
-  height: 76px;
-  padding: 50px;
+  left: 460px;
+  top: 210px;
+  width: 360px;
 }
 
 .text1 {
   font-family: serif;
   font-size: 10px;
   position: absolute;
-  left: 460px;
-  top: 250px;
+  left: 430px;
+  top: 310px;
   width: 320px;
 }
 
 .iconinside {
   position: absolute;
-  left: 455px;
-  top: 466px;
-  width: 201px;
-  height: 150px;
+  left: 400px;
+  top: 380px;
+  width: 180px;
+  height: 180px;
 }
 
 .iconoutside {
   position: absolute;
-  left: 456px;
-  top: 467px;
-  width: 201px;
-  height: 151px;
+  left: 420px;
+  top: 520px;
+  width: 150px;
+  height: 180px;
   z-index: 2;
 }
 
@@ -125,32 +122,21 @@ body {
 }
 
 .Honest {
-  font-family: sans-serif;
-  font-size: 40px;
-  color: red;
-  position: absolute;
-  left: 674px;
-  top: 320px;
+  left: 600px;
+  top: 350px;
+  width: 150px;
 }
 
 .GloryBe {
-  font-family: sans-serif;
-  font-size: 40px;
-  color: red;
-  position: absolute;
-  left: 672px;
-  top: 451px;
-  width: 160px;
+  top: 350px;
+  left: 600px;
+  width: 400px;
 }
 
 .Whee-e-e {
-  font-family: sans-serif;
-  font-size: 40px;
-  color: red;
-  position: absolute;
-  left: 671px;
-  top: 604px;
-  width: 219px;
+  left: 600px;
+  top: 500px;
+  width: 400px;
 }
 
 .text2 {
