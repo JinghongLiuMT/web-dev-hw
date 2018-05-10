@@ -12,3 +12,5 @@ I used the Wayback Machine to searched the Apple.com, I found there have been 64
 .After finished the first project, I found:
 
 This is really a exciting homework, because I made my first webpage in this world. Before doing this project, the webpage design looks like impossible for me. But now, it really not like a tough work. I do not meet to much tough problem after go through the course website.
+
+![Image of My Atom Editor](./images/screenshotp1.png)
